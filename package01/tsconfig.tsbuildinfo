@@ -1,0 +1,47 @@
+{
+  "program": {
+    "fileInfos": {
+      "c:/users/bigfo/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts": {
+        "version": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0",
+        "signature": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0"
+      },
+      "c:/users/bigfo/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "c:/users/bigfo/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      },
+      "c:/users/bigfo/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "c:/users/bigfo/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "c:/dev/temp/package01/index.ts": {
+        "version": "841730897ed9c44a83f035a2e9f88fd28412170e956aeb1f2ef9c9d9c0350e8f",
+        "signature": "2658562ab43aef4182c768f194290cd7e65a087bab025ece10992eb1eacf7949"
+      }
+    },
+    "options": {
+      "target": 1,
+      "composite": true,
+      "declarationMap": true,
+      "configFilePath": "C:/dev/temp/package01/tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "c:/users/bigfo/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts",
+      "c:/users/bigfo/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts",
+      "c:/users/bigfo/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts",
+      "c:/users/bigfo/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "c:/users/bigfo/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "c:/dev/temp/package01/index.ts"
+    ]
+  },
+  "version": "3.5.1"
+}
